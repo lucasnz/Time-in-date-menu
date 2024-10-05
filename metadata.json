@@ -3,9 +3,10 @@
   "description": "Adds current time to date menu.",
   "uuid": "time-in-date-menu@knedme",
   "shell-version": [
-    "45"
+    "45",
+    "46"
   ],
-  "version": 8,
+  "version": 9,
   "url": "https://github.com/Knedme/Time-in-date-menu",
   "settings-schema": "org.gnome.shell.extensions.time-in-date-menu"
 }
